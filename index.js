@@ -29,3 +29,5 @@ dbConnect();
 app.get("/",(req,res)=>{
     res.send(`<h1>this is home page baby</h1>`);
 })
+
+// git ko samajh raha hu
